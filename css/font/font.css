@@ -1,20 +1,20 @@
 @font-face {
   font-family: 'Google Sans';
-  src: url('src/GoogleSans.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/DYNAMO99X/sports-index@main/css/font/src/GoogleSans.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Roboto';
-  src: url('fonts/Roboto.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/DYNAMO99X/sports-index@main/css/font/src/Roboto.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Aptos';
-  src: url('fonts/Aptos.ttf') format('truetype');
+  src: url('https://cdn.jsdelivr.net/gh/DYNAMO99X/sports-index@main/css/font/src/Aptos.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }

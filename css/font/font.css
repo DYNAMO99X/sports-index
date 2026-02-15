@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Google Sans';
+  src: url('src/GoogleSans.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aptos';
+  src: url('fonts/Aptos.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
